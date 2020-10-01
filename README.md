@@ -5,7 +5,7 @@
 - Redux middleware
 - 비동기
 
-###  Generator & Async
+### Generator & Async
 ```
 function* foo()
 {
@@ -20,7 +20,7 @@ async function bar()
 ```
 - 비동기 함수는 funtion 키워드 앞에 async 를 붙여 사용한다. 이 함수는 `Promise` 객체를 반환한다
 
-###Hoisting
+### Hoisting
 ```
 var x = 10
 var y = x* 10
